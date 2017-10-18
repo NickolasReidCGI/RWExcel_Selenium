@@ -15,6 +15,10 @@ import org.openqa.selenium.chrome.ChromeDriver;
 /**
  *
  * @author antony.raphy
+ * Date last modified: October 18, 2017
+ * class to open a web page, enters a search word and picks the first article in
+ * search results, search for another search word which would likely return an error
+ * message, compares the error message with a pre-defined error message.
  */
 //class to traverse through webpages
 public class TraversePage {

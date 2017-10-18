@@ -25,6 +25,8 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 /**
  *
  * @author antony.raphy
+ * Date last modified: October 18, 2017
+ * Purpose: Read and write from excel(*xls, *xlsx) files
  */
 public class ReadWriteExcel {
 
